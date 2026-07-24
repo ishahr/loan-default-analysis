@@ -11,4 +11,4 @@ Analysis of a 255,000+ row loan dataset to identify key predictors of borrower d
 Excel, Google Sheets (Pivot Tables, Formulas)
 
 ## Data
-[Link to your Google Sheet, if shared publicly]
+https://docs.google.com/spreadsheets/d/1E0BpySNum_DUxJveyfsskLX1KbyCI_Qn2iuRwndQXRs/edit?usp=drivesdk
